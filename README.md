@@ -15,4 +15,4 @@ Next, we would like to have something in *italics* next if you want something in
 - Cheese
 - Beef
 
-To make a link you need [google](https://www.google.ie)
+To make a link you need [google](https://www.google.ie) Last thing to do is how to include a picture ![troll](https://en.wikipedia.org/wiki/Trollface#/media/File:Trollface.png)
