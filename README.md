@@ -15,4 +15,5 @@ Next, we would like to have something in *italics* next if you want something in
 - Cheese
 - Beef
 
-To make a link you need [google](https://www.google.ie) Last thing to do is how to include a picture ![troll](https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png)
+To make a link you need [google](https://www.google.ie)
+Last thing to do is how to include a picture![troll](https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png)
