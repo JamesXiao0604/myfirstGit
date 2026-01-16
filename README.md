@@ -6,6 +6,6 @@ I love a girl who has black, long, straight hair. I love a girl who has black, l
 
 I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.
 
-I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.
+I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.I love a girl who has black, long, straight hair.
 
-Next, I would like to have something in *italiscs*
+Next, we would like to have something in *italics* next if you want something in **bold**
